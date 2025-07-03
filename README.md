@@ -1,4 +1,4 @@
-##Scheduler-calendly clone
+# Scheduler-calendly clone
 ```
 DATABASE_URL=
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
